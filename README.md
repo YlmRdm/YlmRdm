@@ -1,8 +1,8 @@
 # Hi there 👋
 
-![YALIM ERDEM][logo]
+![YALIM ERDEM][photo]
 
-[logo]: https://github.com/YlmRdm/YlmRdm/blob/main/assets/yalimErdem.jpg "Yalim Erdem"
+[photo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem"
 
 ## My name is YALIM ERDEM
 
@@ -16,5 +16,6 @@
 - 🤔 I’m looking for a job as a Jr.Data Scientist || Mr.Software Engineer || Sr.Frontend Developer
 - 💬 Ask me about ...
 - 📫 How to reach me: yalim.erdem@gmail.com
-- 📃 [You can see my resume](../blob/main/src/../../../YlmRdm/src/YalimErdemResume.pdf)
+- 📃 [You can see my resume](../blob/main/src/YalimErdemResume.pdf)
+
 
