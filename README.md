@@ -2,7 +2,7 @@
 
 ![YALIM ERDEM][logo]
 
-[logo]: https://github.com/YlmRdm/YlmRdm/tree/main/assets/yalimErdem.jpg "Logo Title Text 2"
+[logo]: https://github.com/YlmRdm/YlmRdm/tree/main/assets/yalimErdem.jpg "Yalim Erdem"
 
 YALIM ERDEM
 
