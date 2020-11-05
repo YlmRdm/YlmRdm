@@ -1,11 +1,9 @@
 ### Hi there 👋
+
 YALIM ERDEM
+
 B.Sc. in Software Engineering
 M.Sc. in Computer Engineering
-<!--
-**YlmRdm/YlmRdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 📍 Barcelona | Izmir
 - 🔭 I’m currently working on Python, JS Frameworks and other stuffs.
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: yalim.erdem@gmail.com
 - 📃 [You can see my resume](../blob/master/LICENSE)
--->
+
