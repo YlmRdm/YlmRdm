@@ -1,13 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 ![YALIM ERDEM][logo]
 
-[logo]: https://github.com/YlmRdm/YlmRdm/tree/main/assets/yalimErdem.jpg "Yalim Erdem"
+[logo]: https://github.com/YlmRdm/YlmRdm/blob/main/assets/yalimErdem.jpg "Yalim Erdem"
 
-YALIM ERDEM
+## My name is YALIM ERDEM
 
-B.Sc. in Software Engineering
-M.Sc. in Computer Engineering
+### B.Sc. in Software Engineering
+### M.Sc. in Computer Engineering
 
 ---
 - 📍 Barcelona | Izmir
@@ -16,5 +16,5 @@ M.Sc. in Computer Engineering
 - 🤔 I’m looking for a job as a Jr.Data Scientist || Mr.Software Engineer || Sr.Frontend Developer
 - 💬 Ask me about ...
 - 📫 How to reach me: yalim.erdem@gmail.com
-- 📃 [You can see my resume](../blob/master/LICENSE)
+- 📃 [You can see my resume](../blob/main/src/../../../YlmRdm/src/YalimErdemResume.pdf)
 
