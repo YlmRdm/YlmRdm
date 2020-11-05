@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+[logo]: https://github.com/ylmrdm/master/src/common/images/yalimErdem.jpg "Yalim Erdem"
+
 YALIM ERDEM
 
 B.Sc. in Software Engineering
 M.Sc. in Computer Engineering
 
+---
 - 📍 Barcelona | Izmir
 - 🔭 I’m currently working on Python, JS Frameworks and other stuffs.
 - 🌱 I’m currently learning Data Science.
