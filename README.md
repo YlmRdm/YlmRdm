@@ -4,7 +4,7 @@
 
 [photo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem"
 
-## My name is YALIM ERDEM
+## My name is YALIM ERDEM
 
 ### B.Sc. in Software Engineering
 ### M.Sc. in Computer Engineering
@@ -16,6 +16,6 @@
 - 🤔&nbsp; I’m looking for a job as a Jr.Data Scientist || Mr.Software Engineer || Sr.Frontend Developer
 - 💬&nbsp; Ask me about anything
 - 📫&nbsp; How to reach me: yalim.erdem@gmail.com
-- 📃&nbsp; [You can see my resume](../YlmRdm/src/YalimErdemResume.pdf)
+- 📃&nbsp; [You can see my resume](../blob/main/src/YalimErdemResume.pdf)
 
 
