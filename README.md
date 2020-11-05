@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[logo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem"
+![YALIM ERDEM][logo]
+
+[logo]: https://github.com/YlmRdm/YlmRdm/tree/main/assets/yalimErdem.jpg "Logo Title Text 2"
 
 YALIM ERDEM
 
