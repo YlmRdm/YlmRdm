@@ -3,8 +3,6 @@
 
 [photo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem"
 
-## My name is YALIM ERDEM
-
 ### B.Sc. in Software Engineering
 ### M.Sc. in Computer Engineering
 
