@@ -1,5 +1,4 @@
-# Hi there 👋
-
+# Hi there 👋 I'm Yalım 👨🏼‍💻
 ![YALIM ERDEM][photo]
 
 [photo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem"
