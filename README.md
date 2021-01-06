@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **yalim.erdem@gmail.com**
 
-- 📄 Know about my experiences [(../main/src/YalimErdemResume.pdf)]((../main/src/YalimErdemResume.pdf))
+- 📄 Know about my experiences [My Resume]((../main/src/YalimErdemResume.pdf))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
