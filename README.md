@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yalım 👨🏼‍💻</h1>
 <h3 align="center">An AI enthusiast Software Engineer from 🇹🇷 
   
+<br>
+  
 ![YALIM ERDEM][photo]
   
 [photo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem" 
