@@ -19,21 +19,21 @@
 
 <p align="left"> <a href="https://twitter.com/ylmrdm" target="blank"><img src="https://img.shields.io/twitter/follow/ylmrdm?logo=twitter&style=for-the-badge" alt="ylmrdm" /></a> </p>
 
-- 🔭 I’m currently working on [Python, JS Frameworks and other stuffs.](Coming Soon.)
+- 🔭 &nbsp; I’m currently working on [Python, JS Frameworks and other stuffs.](Coming Soon.)
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 &nbsp; I’m currently learning **Data Science.**
 
-- 🤔 I’m looking for a job as a [Jr.Data Scientist || Mr.Software Engineer || Sr.Frontend Developer](Coming Soon.)
+- 🤔 &nbsp; I’m looking for a job as a [Jr.Data Scientist || Mr.Software Engineer || Sr.Frontend Developer](Coming Soon.)
 
-- 👨‍💻 All of my projects are available at [Coming Soon.](Coming Soon.)
+- 👨‍💻 &nbsp; All of my projects are available at [Coming Soon.](Coming Soon.)
 
-- 📝 I regularly write articles on [Coming Soon.](Coming Soon.)
+- 📝 &nbsp; I regularly write articles on [Coming Soon.](Coming Soon.)
 
-- 💬 Ask me about **anything.**
+- 💬 &nbsp; Ask me about **anything.**
 
-- 📫 How to reach me **yalim.erdem@gmail.com**
+- 📫 &nbsp; How to reach me **yalim.erdem@gmail.com**
 
-- 📄 Know about my experiences [My Resume]((../main/src/YalimErdemResume.pdf))
+- 📄 &nbsp; Know about my experiences [My Resume]((../main/src/YalimErdemResume.pdf))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
