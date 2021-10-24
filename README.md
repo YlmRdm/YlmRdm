@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yalım 👨🏼‍💻</h1>
 <h3 align="center">An AI enthusiast Software Engineer from 🇹🇷 
-  
-
-
-  
-![YALIM ERDEM][photo]
-  
-[photo]: https://github.com/YlmRdm/YlmRdm/blob/main/src/yalimErdem.jpg "Yalim Erdem" 
 
 ### B.Sc. in Software Engineering
 ### M.Sc. in Computer Engineering
