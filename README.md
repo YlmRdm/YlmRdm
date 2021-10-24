@@ -26,7 +26,7 @@
 
 - 📫 &nbsp; How to reach me **yalim.erdem@gmail.com**
 
-- 📄 &nbsp; Know about my experiences [My Resume](../src/YalimErdemResume.pdf)
+- 📄 &nbsp; Know about my experiences [My Resume](../main/src/YalimErdemResume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
