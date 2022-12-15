@@ -16,7 +16,7 @@
 
 - 🌱 &nbsp; I’m currently learning **Data Science.**
 
-- 🤔 &nbsp; I’m looking for a job as a [Jr.Data Scientist || Mr.Software Engineer || Sr.Frontend Developer](Coming Soon.)
+- 🤔 &nbsp; I’m looking for a job as a [Software Engineer](Coming Soon.)
 
 - 👨‍💻 &nbsp; All of my projects are available at [Coming Soon.](Coming Soon.)
 
@@ -27,6 +27,8 @@
 - 📫 &nbsp; How to reach me **yalim.erdem@gmail.com**
 
 - 📄 &nbsp; Know about my experiences [My Resume](../main/src/YalimErdemResume.pdf)
+
+<a href="https://app.daily.dev/YlmRdm"><img src="https://api.daily.dev/devcards/0f24502fd74c48b8827f39568b97d4d4.png?r=amd" width="400" alt="Yalım Erdem's Dev Card"/></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
